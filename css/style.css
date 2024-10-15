@@ -14,8 +14,8 @@
 
 body {
     font-family: 'poppins', sans-serif;
-background-color: var(--bg);
-color: #fff;
+    background-color: var(--bg);
+    color: #fff;
 }
 
 /* Navbar */
@@ -23,5 +23,5 @@ color: #fff;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.4rem 7%;
+    padding: 1.4rem 7%; 
 }
